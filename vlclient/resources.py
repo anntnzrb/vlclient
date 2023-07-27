@@ -19,5 +19,6 @@ queues = [
     "spikerush",
     "unrated",
     "onefa",
+    "hurm",
     "null",
 ]
